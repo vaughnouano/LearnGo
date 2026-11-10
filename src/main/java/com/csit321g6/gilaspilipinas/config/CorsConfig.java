@@ -1,4 +1,4 @@
-package com.csit321section.groupname.config;
+package com.csit321g6.gilaspilipinas.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

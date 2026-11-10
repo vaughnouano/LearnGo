@@ -1,8 +1,8 @@
-package com.csit321section.groupname.controller;
+package com.csit321g6.gilaspilipinas.controller;
 
-import com.csit321section.groupname.dto.LessonRequest;
-import com.csit321section.groupname.dto.LessonResponse;
-import com.csit321section.groupname.service.LessonService;
+import com.csit321g6.gilaspilipinas.dto.LessonRequest;
+import com.csit321g6.gilaspilipinas.dto.LessonResponse;
+import com.csit321g6.gilaspilipinas.service.LessonService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

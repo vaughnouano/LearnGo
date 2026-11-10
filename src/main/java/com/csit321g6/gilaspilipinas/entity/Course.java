@@ -1,4 +1,4 @@
-package com.csit321section.groupname.entity;
+package com.csit321g6.gilaspilipinas.entity;
 
 import jakarta.persistence.*;
 import java.util.ArrayList;

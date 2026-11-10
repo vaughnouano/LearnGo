@@ -1,4 +1,4 @@
-package com.csit321section.groupname.dto;
+package com.csit321g6.gilaspilipinas.dto;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;

@@ -1,4 +1,4 @@
-package com.csit321section.groupname.exception;
+package com.csit321g6.gilaspilipinas.exception;
 
 /** Thrown when a unique value (e.g. course code) already exists -> HTTP 409. */
 public class DuplicateResourceException extends RuntimeException {

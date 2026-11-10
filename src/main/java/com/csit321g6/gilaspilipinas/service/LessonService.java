@@ -1,7 +1,7 @@
-package com.csit321section.groupname.service;
+package com.csit321g6.gilaspilipinas.service;
 
-import com.csit321section.groupname.dto.LessonRequest;
-import com.csit321section.groupname.dto.LessonResponse;
+import com.csit321g6.gilaspilipinas.dto.LessonRequest;
+import com.csit321g6.gilaspilipinas.dto.LessonResponse;
 import java.util.List;
 
 public interface LessonService {

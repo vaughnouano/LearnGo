@@ -1,11 +1,11 @@
-package com.csit321section.groupname.service;
+package com.csit321g6.gilaspilipinas.service;
 
-import com.csit321section.groupname.dto.CourseRequest;
-import com.csit321section.groupname.dto.CourseResponse;
-import com.csit321section.groupname.entity.Course;
-import com.csit321section.groupname.exception.DuplicateResourceException;
-import com.csit321section.groupname.exception.ResourceNotFoundException;
-import com.csit321section.groupname.repository.CourseRepository;
+import com.csit321g6.gilaspilipinas.dto.CourseRequest;
+import com.csit321g6.gilaspilipinas.dto.CourseResponse;
+import com.csit321g6.gilaspilipinas.entity.Course;
+import com.csit321g6.gilaspilipinas.exception.DuplicateResourceException;
+import com.csit321g6.gilaspilipinas.exception.ResourceNotFoundException;
+import com.csit321g6.gilaspilipinas.repository.CourseRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

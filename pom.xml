@@ -11,10 +11,10 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.csit321section.groupname</groupId>
-    <artifactId>projectname</artifactId>
+    <groupId>com.csit321g6.gilaspilipinas</groupId>
+    <artifactId>learngo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>projectname</name>
+    <name>learngo</name>
     <description>LearnGo backend - Software Increment 1 (Course + Lesson CRUD)</description>
 
     <properties>

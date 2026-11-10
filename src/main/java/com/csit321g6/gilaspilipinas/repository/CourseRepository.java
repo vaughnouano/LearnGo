@@ -1,6 +1,6 @@
-package com.csit321section.groupname.repository;
+package com.csit321g6.gilaspilipinas.repository;
 
-import com.csit321section.groupname.entity.Course;
+import com.csit321g6.gilaspilipinas.entity.Course;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 
